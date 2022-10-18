@@ -20,7 +20,7 @@ I'm mostly playing with semantic web technologies and data science methods. Pers
 
 [**🧙‍ PLAYFAIR**](https://github.com/MaastrichtU-IDS/play-fair): FAIR Data for Historical Games. Visit **[https://carlosug.github.io/posts/FAIR-data-management](https://carlosug.github.io/posts/FAIR-data-management)** 
 
-[**🌲 KG for Open Government Data - ESGREEN**](https://github.com/carlosug/esgreen-kg): a RDF knowledge graphs for green space infrastructure**]
+[**🌲 KG for Open Government Data - ESGREEN**](https://github.com/carlosug/esgreen-kg): a RDF knowledge graphs for green space infrastructures
 
 </td><td valign="top" width="50%">
 
@@ -29,7 +29,7 @@ I'm mostly playing with semantic web technologies and data science methods. Pers
 #### 👨‍ Undergraduate Courses:
 - [**Quantitative research methods**](https://maastrichtu-ids.github.io/global-studies/) - *[Global Studies](https://www.maastrichtuniversity.nl/education/bachelor/bachelor-global-studies/courses-curriculum)*
 
-####  🧞 Master Courses:
+####  🧞 Master Courses:s
 - [**Intro to Statistics with R**](https://github.com/MaastrichtU-IDS/AppliedRR) - *[Applied Research - VSK1004](https://www.maastrichtuniversity.nl/meta/412625/applied-researcher-iii)*
 
 #### 👋 Workshops:
