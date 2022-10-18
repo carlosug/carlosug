@@ -20,7 +20,7 @@ I'm mostly playing with semantic web technologies and data science methods. Pers
 
 [**🧙‍ PLAYFAIR**](https://github.com/MaastrichtU-IDS/play-fair): FAIR Data for Historical Games. Visit **[https://carlosug.github.io/posts/FAIR-data-management](https://carlosug.github.io/posts/FAIR-data-management)** 
 
-[**🌲 KG for Open Government Data - ESGREEN**](https://github.com/carlosug/esgreen-kg): a RDF knowledge graphs for green space infrastructure**
+[**🌲 KG for Open Government Data - ESGREEN**](https://github.com/carlosug/esgreen-kg): a RDF knowledge graphs for green space infrastructure**]
 
 </td><td valign="top" width="50%">
 
