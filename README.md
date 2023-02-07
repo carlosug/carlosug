@@ -29,7 +29,7 @@ I'm mostly playing with semantic web technologies and data science methods. Pers
 #### 👨‍ Undergraduate Courses:
 - [**Quantitative research methods**](https://maastrichtu-ids.github.io/global-studies/) - *[Global Studies](https://www.maastrichtuniversity.nl/education/bachelor/bachelor-global-studies/courses-curriculum)*
 
-####  🧞 Master Courses:s
+####  🧞 Master Courses:
 - [**Intro to Statistics with R**](https://github.com/MaastrichtU-IDS/AppliedRR) - *[Applied Research - VSK1004](https://www.maastrichtuniversity.nl/meta/412625/applied-researcher-iii)*
 
 #### 👋 Workshops:
