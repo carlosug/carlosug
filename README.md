@@ -49,3 +49,7 @@ I'm mostly playing with semantic web technologies and data science methods. Pers
 ### Contact with me:
 
 <a href="https://nl.linkedin.com/in/carlos-utrilla-guerrero-97ba7b31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a> <a href="mailto:c.utrilla.guerrero@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="30" width="40" /></a>
+
+### Personal stats API:
+
+[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosug&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
